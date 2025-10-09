@@ -1,0 +1,7 @@
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\bin\Debug\Arithmetic Expressions Awad.exe.config
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\bin\Debug\Arithmetic Expressions Awad.exe
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\bin\Debug\Arithmetic Expressions Awad.pdb
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\obj\Debug\Arithmetic Expressions Awad.csproj.AssemblyReference.cache
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\obj\Debug\Arithmetic Expressions Awad.csproj.CoreCompileInputs.cache
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\obj\Debug\Arithmetic Expressions Awad.exe
+C:\Users\aawad\OneDrive - NAIT\1012\Arithmetic Expressions Awad\Arithmetic Expressions Awad\obj\Debug\Arithmetic Expressions Awad.pdb
